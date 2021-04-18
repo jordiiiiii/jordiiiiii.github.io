@@ -1,14 +1,19 @@
 # jordiiiiii.github.io
 
-Despres de fer un npm run build:
 ```
-## 1r  git add .
-```
-```
-## 2n  git commit -m "blabla"
+## 1r npm run build al teu projecte vue
 ```
 ```
-## 3r  git push -u origin master
+## 2n copia el que hi ha al dist en aquest dist
+```
+```
+## 3r  git add .
+```
+```
+## 4t  git commit -m "blabla"
+```
+```
+## 5e  git push -u origin master
 ```
 
 i ja esta
